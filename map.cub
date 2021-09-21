@@ -1,0 +1,31 @@
+R 800 600
+
+NO ./resources/glass_blue.xpm
+SO ./resources/glass_green.xpm
+WE ./resources/glass_orange.xpm
+EA ./resources/glass_magenta.xpm
+S ./resources/sapling_roofed_oak.xpm
+
+C 23,236,255
+F 209,209,209
+
+       1111
+      100001
+      102201
+      100001
+      100001
+      101101
+      100001
+ 1111100000011111
+100000000000000001
+102000000000000201
+10200000W000000201
+100000000000000001
+ 1111100000011111
+      100001
+      101101
+      100001
+      100001
+      102201
+      100001
+       1111
