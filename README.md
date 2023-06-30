@@ -1,19 +1,19 @@
 # cub3d
 
-**Движок для рендеринга уровней при помощи технологии raycasting на C. Проект, выполненный в Школе 21.**
+**A raycasting-based level rendering engine in C. A project completed at Ecole42.**
 
-## Основные особенности
+## Key Features
 
-- Работает только на macOS
-- Загружает уровни из текстового файла
-- Рисует стены и двумерные спрайты
-- Накладывает разные текстуры на каждую из четерех сторон стены (блока)
-- По уровню можно перемещаться при помощи клавиш w, a, s, d, а также управлять обзором при помощи стрелок
+- Works only on macOS.
+- Loads levels from a text file.
+- Renders walls and 2D sprites.
+- Applies different textures to each of the four sides of a wall (block).
+- Allows movement through the level using the keys w, a, s, d, and controls the view using arrow keys.
 
-## Сборка
+## Build
 
 make
 
-## Пример запуска
+## Example Run
 
 ./cub3D map.cub
